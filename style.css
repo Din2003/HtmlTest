@@ -1,0 +1,18 @@
+.title {
+    font-size: 100px;
+    text-align: center;
+}
+
+.school {
+    color: blue;
+}
+
+.hobby{
+    background-color: brown;
+}
+
+.list{
+    color: azure;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
