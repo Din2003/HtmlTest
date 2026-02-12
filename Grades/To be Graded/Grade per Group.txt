@@ -1,0 +1,29 @@
+=====
+Grade for Chapter 1
+=====
+
+G11 A
+    Alaba Group (Wellness) -
+        - Alaba
+        - 
+    
+    Palad Group (Wingless) -
+        - Palad
+        -
+
+G11 B
+    Pepito Group
+        - Pepito
+        - Nave
+    
+    Solamin Group
+        - Solamin
+        - Rana
+        - Japson
+
+    Nagac Group
+        - Nagac
+        - Ebanado
+
+    Serato Group
+        - Serato
