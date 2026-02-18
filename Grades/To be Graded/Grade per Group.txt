@@ -34,16 +34,16 @@ Grade for Chapter 2
 =====
 
 G11 A
-    Alaba Group (Wellness) - 
+    Alaba Group (Wellness) - 18/20
         - Alaba
         - 
     
-    Palad Group (Wingless) - 
+    Palad Group (Wingless) - 17/20
         - Palad
         -
 
 G11 B
-    Pepito Group -
+    Pepito Group -15/20
         - Pepito
         - Nave
     
@@ -63,3 +63,29 @@ G11 B
 =====
 Grade for Chapter 3
 =====
+
+G11 A
+    Alaba Group (Wellness) - 15/20
+        - Alaba
+        - 
+    
+    Palad Group (Wingless) - 17/20
+        - Palad
+        -
+
+G11 B
+    Pepito Group -16/20
+        - Pepito
+        - Nave
+    
+    Solamin Group - 
+        - Solamin
+        - Rana
+        - Japson
+
+    Nagac Group - 
+        - Nagac
+        - Ebanado
+
+    Serato Group
+        - Serato
