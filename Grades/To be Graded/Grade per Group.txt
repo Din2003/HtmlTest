@@ -47,12 +47,12 @@ G11 B
         - Pepito
         - Nave
     
-    Solamin Group - 
+    Solamin Group - 0/20
         - Solamin
         - Rana
         - Japson
 
-    Nagac Group - 
+    Nagac Group - 6/20
         - Nagac
         - Ebanado
 
@@ -78,12 +78,12 @@ G11 B
         - Pepito
         - Nave
     
-    Solamin Group - 
+    Solamin Group - 9/20
         - Solamin
         - Rana
         - Japson
 
-    Nagac Group - 
+    Nagac Group - 4/20  
         - Nagac
         - Ebanado
 
